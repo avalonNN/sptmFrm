@@ -5,10 +5,10 @@
  * and open the template in the editor.
  */
 
-namespace icc\log;
+namespace sptmFrm\log;
 
-use icc\log\LogManager;
-use icc\log\LogRecord;
+use sptmFrm\log\LogManager;
+use sptmFrm\log\LogRecord;
 
 /**
  * Description of Log

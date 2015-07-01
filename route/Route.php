@@ -1,11 +1,11 @@
 <?php
 
-namespace icc\route;
+namespace sptmFrm\route;
 
-use icc\request\Request;
-use icc\base\UrlManager;
-use icc\base\Application;
-use icc\log\Log;
+use sptmFrm\request\Request;
+use sptmFrm\base\UrlManager;
+use sptmFrm\base\Application;
+use sptmFrm\log\Log;
 /**
  * Description of Route
  *

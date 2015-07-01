@@ -1,7 +1,7 @@
 <?php
-namespace icc\di;
+namespace sptmFrm\di;
 
-use icc\base\Application;
+use sptmFrm\base\Application;
 
 /**
  * Description of ServiceLocator

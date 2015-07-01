@@ -1,8 +1,8 @@
 <?php
-namespace icc\view;
+namespace sptmFrm\view;
 
-use icc\exception\FileException;
-use icc\base\Application;
+use sptmFrm\exception\FileException;
+use sptmFrm\base\Application;
 
 /**
  * Description of View

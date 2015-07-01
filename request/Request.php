@@ -1,9 +1,9 @@
 <?php
 
-namespace icc\request;
+namespace sptmFrm\request;
 
-use icc\request\HttpRequest;
-use icc\log\Log;
+use sptmFrm\request\HttpRequest;
+use sptmFrm\log\Log;
 
 /**
  * Description of Request

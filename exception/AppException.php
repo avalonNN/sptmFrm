@@ -1,6 +1,6 @@
 <?php
 
-namespace icc\exception;
+namespace sptmFrm\exception;
 
 /**
  * Description of AppException

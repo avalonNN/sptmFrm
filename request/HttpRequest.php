@@ -1,6 +1,6 @@
 <?php
 
-namespace icc\request;
+namespace sptmFrm\request;
 
 /**
  * Description of baseRequest

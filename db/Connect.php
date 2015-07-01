@@ -5,7 +5,7 @@
  * and open the template in the editor.
  */
 
-namespace icc\db;
+namespace sptmFrm\db;
 
 /**
  * Description of Connect

@@ -1,8 +1,8 @@
 <?php
 
-namespace icc\base;
+namespace sptmFrm\base;
 
-use icc\di\ServiceLocator;
+use sptmFrm\di\ServiceLocator;
 
 
 /**

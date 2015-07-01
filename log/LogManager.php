@@ -5,9 +5,9 @@
  * and open the template in the editor.
  */
 
-namespace icc\log;
+namespace sptmFrm\log;
 
-use icc\log\HandleLog;
+use sptmFrm\log\HandleLog;
 
 /**
  * Description of LogManager

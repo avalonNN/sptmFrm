@@ -4,9 +4,9 @@
  *
  * @author aciden
  */ 
-namespace icc\base;
+namespace sptmFrm\base;
 
-use icc\base\Application;
+use sptmFrm\base\Application;
 
 class Controller
 {    

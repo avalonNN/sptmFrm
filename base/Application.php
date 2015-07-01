@@ -1,10 +1,10 @@
 <?php
-namespace icc\base;
+namespace sptmFrm\base;
 
-use icc\exception\ControllerException;
-use icc\base\Component;
-use icc\di\Container;
-use icc\log\Log;
+use sptmFrm\exception\ControllerException;
+use sptmFrm\base\Component;
+use sptmFrm\di\Container;
+use sptmFrm\log\Log;
 
 /**
  * Основной класс работы приложения
@@ -44,7 +44,7 @@ class Application extends Component
      * 
      * @var string $nameSpaceControllers namespace controllers app
      */
-    private $_nameSpaceControllers = 'icc\\controllers\\';
+    private $_nameSpaceControllers = 'sptmFrm\\controllers\\';
     
     /**
      * Главный файл HTML шаблона
@@ -147,7 +147,7 @@ class Application extends Component
 
     /**
      *
-     * @param \icc\base\request\Request $request
+     * @param \sptmFrm\base\request\Request $request
      */
     public function handleRequest()
     {
@@ -244,7 +244,7 @@ class Application extends Component
     /**
      * Returns the route component.
      *
-     * @return \icc\base\route\Route
+     * @return \sptmFrm\base\route\Route
      */
     public function getRoute()
     {
@@ -254,7 +254,7 @@ class Application extends Component
     /**
      * Returns the request component.
      *
-     * @return \icc\base\request\Request
+     * @return \sptmFrm\base\request\Request
      */
     public function getRequest()
     {
@@ -263,7 +263,7 @@ class Application extends Component
 
     /**
      * 
-     * @return \icc\base\UrlManager
+     * @return \sptmFrm\base\UrlManager
      */
     public function getUrlManager()
     {
@@ -272,7 +272,7 @@ class Application extends Component
 
     /**
      *
-     * @return \icc\base\template\View
+     * @return \sptmFrm\base\template\View
      */
     public function getView()
     {

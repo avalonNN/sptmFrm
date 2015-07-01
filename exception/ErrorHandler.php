@@ -5,7 +5,7 @@
  * and open the template in the editor.
  */
 
-namespace icc\exception;
+namespace sptmFrm\exception;
 
 /**
  * Description of ErrorHandler

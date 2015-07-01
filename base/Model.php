@@ -1,5 +1,5 @@
 <?php
-namespace icc\base;
+namespace sptmFrm\base;
 
 /**
  * Description of Model

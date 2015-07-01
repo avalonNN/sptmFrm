@@ -1,8 +1,8 @@
 <?php
 
-namespace icc\base;
+namespace sptmFrm\base;
 
-use icc\base\Application;
+use sptmFrm\base\Application;
 
 /**
  * Description of UrlManager

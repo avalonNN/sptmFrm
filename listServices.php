@@ -1,12 +1,12 @@
 <?php
 
 return [
-    'request' => 'icc\request\Request',
-    'route' => 'icc\route\Route',
-    'urlManager' => 'icc\base\UrlManager',
-    'urlRule' => 'icc\base\urlRule',
-    'controller' => 'icc\base\Controller',
-    'view' => 'icc\view\View',
-    'log' => 'icc\log\Log',
-    'errorHandler' => 'icc\exception\ErrorHandler'
+    'request' => 'sptmFrm\request\Request',
+    'route' => 'sptmFrm\route\Route',
+    'urlManager' => 'sptmFrm\base\UrlManager',
+    'urlRule' => 'sptmFrm\base\urlRule',
+    'controller' => 'sptmFrm\base\Controller',
+    'view' => 'sptmFrm\view\View',
+    'log' => 'sptmFrm\log\Log',
+    'errorHandler' => 'sptmFrm\exception\ErrorHandler'
 ];

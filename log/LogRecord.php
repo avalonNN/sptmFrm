@@ -5,7 +5,7 @@
  * and open the template in the editor.
  */
 
-namespace icc\log;
+namespace sptmFrm\log;
 
 /**
  * Description of LogRecord

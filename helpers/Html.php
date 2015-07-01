@@ -1,5 +1,5 @@
 <?php
-namespace icc\helpers;
+namespace sptmFrm\helpers;
 
 /**
  * Description of Html

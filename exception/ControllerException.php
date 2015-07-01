@@ -1,7 +1,7 @@
 <?php
-namespace icc\exception;
+namespace sptmFrm\exception;
 
-use icc\log\Log;
+use sptmFrm\log\Log;
 
 /**
  * Description of ControllerException

@@ -5,10 +5,10 @@
  * and open the template in the editor.
  */
 
-namespace icc\di;
+namespace sptmFrm\di;
 
-use icc\exception\AppException;
-use icc\base\Application;
+use sptmFrm\exception\AppException;
+use sptmFrm\base\Application;
 
 /**
  * Description of Container

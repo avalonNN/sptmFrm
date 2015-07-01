@@ -5,7 +5,7 @@
  * and open the template in the editor.
  */
 
-namespace icc\request;
+namespace sptmFrm\request;
 
 /**
  * Description of consoleRequest

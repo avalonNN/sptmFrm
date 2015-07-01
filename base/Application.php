@@ -11,7 +11,7 @@ use sptmFrm\log\Log;
  * Запускает указанный в адресной строке или дефолтный контроллер и действие.
  *
  * @author aciden
- * @copyright (c) 2014, ICC
+ * @copyright (c) 2014, SPTM
  */
 class Application extends Component
 {

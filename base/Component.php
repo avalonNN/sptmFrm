@@ -18,6 +18,7 @@ class Component extends ServiceLocator
      * @var array
      */
     private $_components = [];
+    
     /**
      *
      * @param type $name

@@ -37,7 +37,7 @@ class Application extends Component
      *
      * @var type
      */
-    public $name = 'Icc framework';
+    public $name = 'Sptm framework';
 
     /**
      * Пространство имен для контроллеров приложения
